@@ -2,7 +2,7 @@
 #define MYSTACK_H
 
 #define WORD 10
-#define SIZE 15
+#define SIZE 20
 
 typedef struct s
 {
