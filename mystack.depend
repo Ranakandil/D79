@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731347661 source:c:\projects of embedded\amit\lecs_lab\mystack\main.c
+	<stdio.h>
+	<string.h>
+	"mystack.h"
+
+1731343668 c:\projects of embedded\amit\lecs_lab\mystack\mystack.h
+
+1731347740 source:c:\projects of embedded\amit\lecs_lab\mystack\mystack.c
+	<stdio.h>
+	"mystack.h"
+
